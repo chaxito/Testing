@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaxito/Testing.git"
+  },
+  "keywords": [
+    "package.json",
+    "git",
+    "init"
+  ],
+  "author": "Charles Muli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaxito/Testing/issues"
+  },
+  "homepage": "https://github.com/chaxito/Testing#readme"
+}
